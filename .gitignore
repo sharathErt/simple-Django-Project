@@ -1,0 +1,16 @@
+# Ignore Python bytecodes
+*.pyc
+
+# Ignore the virtual environment directory
+/myenv
+
+# Ignore database files
+*.sqlite3
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore logs
+*.log
